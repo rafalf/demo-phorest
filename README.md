@@ -6,7 +6,8 @@
 ### Run pytest:
 
 #### all tests
-* ```pytest ./tests/ -s -v --reruns 1```   reruns set to 1 (rerun a failure once)
+* ```pytest ./tests/ -s -v``` 
+* ```pytest ./tests/ -s -v --reruns 1``` w/ reruns set to 1 (rerun failures once)
 
 #### a specific test 
 * ```pytest ./tests/test_demo.py::test_book_single_signup -s -v```
