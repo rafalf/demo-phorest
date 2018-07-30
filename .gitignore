@@ -1,0 +1,9 @@
+.idea
+*.pyc
+download
+!download\.gitkeep
+*.log
+reports\*
+!reports\.gitkeep
+.cache
+.pytest_cache

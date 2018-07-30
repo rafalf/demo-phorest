@@ -1,0 +1,9 @@
+append_login:
+append_signup:
+user-01:
+  gmail: qaphorest@gmail.com
+  gmailPrefix: qaphorest
+  g-password: qaphorest123
+user-reg-01: 1532960953694@gmail.com  # must have 0 appointments booked
+user-reg-02:
+password: qaphorest123
